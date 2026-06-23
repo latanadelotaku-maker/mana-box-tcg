@@ -1,0 +1,3 @@
+:root{ --bg1:#071033; --bg2:#0f172a; --accent1:#6d28d9; --accent2:#06b6d4 }
+html,body,#__next{ height:100%; }
+body{ margin:0; font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto; background: linear-gradient(180deg,var(--bg1), var(--bg2)); color:#eef2ff }
